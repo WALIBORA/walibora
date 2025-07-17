@@ -23,7 +23,7 @@ and continuously learning to improve my skills.
 
 ### 📫 Connect With Me
 - 🌐 Portfolio:https://bitsoft.com
-- 💼 LinkedIn: [linkedin.com/in/yourusername]()
+
 - 📬 Email: gideonmusikoma@gmail.com
 
 ---
