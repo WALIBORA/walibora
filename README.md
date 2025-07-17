@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**WALIBORA/walibora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a Computer Science student with a strong interest in solving real-world problems through code. I'm passionate about software development, exploring emerging technologies,
+and continuously learning to improve my skills.
 
-Here are some ideas to get you started:
+### 💻 What I Do
+- 🌐 Web Development (HTML, CSS, JavaScript, React, Node.js)
+- 📦 Backend & Databases (MySQL)
+- 🧠 Data Structures & Algorithms (C++, Python, Java)
+- 🤖 Currently exploring AI, Machine Learning, and Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Current Goals
+- 💡 Build full-stack projects to sharpen development skills
+- ☁️ Learn cloud services like AWS o
+- 🔐 Understand computer security and ethical hacking
+- 👨‍🎓 Contribute to open source and collaborate with other developers
+
+### 🛠️ Tools & Technologies
+- Languages: Python, C++, C#, JavaScript
+- Tools: Git, VS Code, Figma
+- Frameworks: React, Node.js, Express, Bootstrap
+- Databases: MySQL
+
+### 📫 Connect With Me
+- 🌐 Portfolio:https://bitsoft.com
+- 💼 LinkedIn: [linkedin.com/in/yourusername]()
+- 📬 Email: gideonmusikoma@gmail.com
+
+---
+
+Thanks for visiting! Feel free to check out my repositories and leave feedback or suggestions.
