@@ -22,7 +22,7 @@ and continuously learning to improve my skills.
 - Databases: MySQL
 
 ### 📫 Connect With Me
-- 🌐 Portfolio:https://bitsoft.com
+- 🌐 Portfolio:https://bytessoft.com
 
 - 📬 Email: gideonmusikoma@gmail.com
 
